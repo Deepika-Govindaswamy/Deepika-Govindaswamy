@@ -1,7 +1,7 @@
 # Hi there, I'm Deepika! 👋
 
 🎓 Master's in Computer Science | The University of Sheffield, UK   
-🌟 Passionate about Software Development - I'm a Junior Java Developer specializing in backend development using Spring Boot, Hibernate and SQL Databases.  
+🌟 Passionate about Software Development - I'm a Junior Java Developer specializing in building distributed, scalable systems leveraging Java, Spring Boot, Hibernate, SQL Databases and Microservice architecture.  
 🚀 Open to full time opportunities in Software Engineering and Java Development  
 📧 Reach out to me at deepikagovindaswamy@gmail.com  
 
